@@ -1,3 +1,17 @@
 #map {
-    height: calc(100vh - 10px);
+    height: calc(100vh);
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
+
+.leaflet-container {
+    background: #0e1210f5;
+    outline: 0;
+}
+
+.row {
+    margin: 0;
 }
